@@ -5,3 +5,5 @@ data/*
 __pycache__/
 __pypackages__/
 catboost_info/
+notebooks/07-homework/models/*
+.pytest_cache/
